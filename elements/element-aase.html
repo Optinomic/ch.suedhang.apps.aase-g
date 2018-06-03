@@ -90,10 +90,11 @@
                     type: Object,
                     statePath: function (state) {
                         try {
-                            return state.survey_responses.data[this.appId]
-                        } catch (err) {
-                            return null
+                            return state.survey_responses.data[this.appId];
                         }
+                        catch(err) {
+                            return null
+                        };
                     },
                     observer: '_srChanged'
                 },
