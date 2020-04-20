@@ -6,6 +6,7 @@ version = __opapp_version()
 type = patient
 
 [description]
+Alcohol Abstinence Self-Efficacy (AASE-G) | Skala Versuchung
 
 [developer]
 first_name = Beat
