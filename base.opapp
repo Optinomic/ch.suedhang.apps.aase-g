@@ -22,7 +22,6 @@ website = http://www.optinomic.com/
 __opapp_include(optinomic_lib/dist/templates/ch.suedhang.apps.aase-g.html)
 
 
-
 [readme]
 __opapp_include(readme.md)
 
